@@ -1,0 +1,17 @@
+.user-profile{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    gap:15px;
+    margin: 150px auto 0px;
+    width:50%;
+    padding:25px;
+    text-align: center;
+    color:#fff;
+    box-shadow: 0px 0px 0px 0.5px #ccc;
+    border-radius: 10px;
+}
+.user-profile button{
+    align-self: center;
+}
